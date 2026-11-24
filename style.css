@@ -324,7 +324,6 @@ footer {
   text-decoration: underline;
 }
 
-/* Mobile Responsive */
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
